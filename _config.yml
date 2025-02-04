@@ -12,7 +12,7 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://gongfangmm.github.io/gongfang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://gongfangmm.github.io/gongfang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "myprofile.png"
-  name             : "Fang Gong(龚芳)"
+  name             : "Fang Gong"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Lecturer"
+  bio              : "Lecturer"
   location         : "Room 408A, No. 206 Guanggu First Road"
   location         : "Wuhan, Hubei, China"
   employer         : "Wuhan Institute of Technology"
-  uri              : # URL
+  uri              : "https://gongfangmm.github.io/gongfang.github.io"
   email            : "fang.gong@wit.edu.cn" 
 
   # Academic websites
