@@ -17,8 +17,9 @@ Currently, I am broadly interested in data mining and machine learning.
 
 In particular, the goal is to develop machine learning-based algorithms for categorical data analysis, e.g., distance metric and representation learning. The difficulties in categorical data analysis is, but not limited to, how to represent the complex coupling relationships, how to handle the concept shift, and how to handle the imbalance data, which bring in the consiferable challanges. We wish to develop the effective and efficient methods about structure extension, multi-view learning, dynamic ensemble learning, few-shot learning to tackle these challenges. 
 
-Selected Publication
+Latest News
 ======
+
 1. Fine-grained attribute weighted inverted specific-class distance measure for nominal attributes
    Fang Gong, Xin wang*, Liangxiao Jiang*, Seyyed Mohammadreza Rahimi, Dianhong Wang
    Information Sciences, 2021, 578: 848–869[Link](https://doi.org/10.1016/j.ins.2021.08.041)
