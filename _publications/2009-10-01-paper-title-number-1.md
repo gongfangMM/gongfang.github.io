@@ -4,9 +4,8 @@ collection: publications
 category: manuscript
 excerpt: 'Fang Gong, Xingfeng Guo*, Dianhong Wang'
 date: 2023-09-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1007/s10618-022-00881-w)'
+venue: 'Data Mining and Knowledge Discovery'
+slidesurl: '[http://academicpages.github.io/files/paper1.pdf](https://link.springer.com/article/10.1007/s10618-022-00881-w)'
 citation: 'Data Mining and Knowledge Discovery'
 ---
 
