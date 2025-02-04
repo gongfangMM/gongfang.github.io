@@ -28,7 +28,7 @@ author:
   location         : #"Room 408A, No. 206 Guanggu First Road"
   location         : #"Wuhan, Hubei, China"
   employer         : #"Wuhan Institute of Technology"
-  uri              : "https://gongfangmm.github.io/gongfang.github.io"
+  uri              : #"https://gongfangmm.github.io/gongfang.github.io"
   email            : "fang.gong@wit.edu.cn" 
 
   # Academic websites
